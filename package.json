@@ -2,10 +2,14 @@
   "name": "title",
   "namespace": "Luffy",
   "label": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "标题组件",
   "private": true,
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:godspencomponent/title.git"
+  },
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server --inline --progress",
     "build": "NODE_ENV=production webpack --progress --hide-modules",

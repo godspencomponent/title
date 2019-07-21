@@ -94,7 +94,6 @@
         width 400px
         height 42px
         cursor pointer
-        border 1px solid #f0f0f0
         margin-bottom 10px
         img {
           height 40px
