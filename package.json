@@ -1,9 +1,8 @@
 {
   "name": "title",
-  "namespace": "Luffy",
-  "label": "",
+  "label": "标题",
   "version": "1.0.2",
-  "description": "标题组件",
+  "description": "标题",
   "private": true,
   "keywords": [],
   "repository": {
